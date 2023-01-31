@@ -1,3 +1,3 @@
 # GIT Demo in CLass
 
-actually learning git.
+Actually learning git!
